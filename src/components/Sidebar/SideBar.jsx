@@ -3,7 +3,7 @@ const SideBar = () => {
     <div className="">
       {/*Container1*/}
       <div className="flex flex-col justify-center lg:flex lg:flex-row">
-        <img  className="lg:w-[505px] xl:w-[635px] 2xl:w-[950px]"src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg"></img>
+        <img  className="lg:w-[505px] xl:w-[635px] 2xl:w-[950px]"src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg" alt="showcase1"></img>
         <div className=" p-12 2xl:py-64 2xl:max-w-5xl lg:p-32 border-transparent shadow-2xl border-2  ">
           <h1 className="text-2xl mb-3">Fully Responsive Design</h1>
           <p className="text-gray-400">
@@ -15,7 +15,7 @@ const SideBar = () => {
       </div>
       {/*Container2*/}
       <div className="flex flex-col justify-center lg:flex lg:flex-row-reverse">
-        <img  className="lg:w-[502px] xl:w-[630px] 2xl:w-full"src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg"></img>
+        <img  className="lg:w-[502px] xl:w-[630px] 2xl:w-full"src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg" alt="showcase2"></img>
         <div className="p-12 2xl:py-64 2xl:max-w-4xl border-transparent shadow-2xl border-2 ">
           <h1 className="text-2xl mb-3">Updated For Bootstrap 5</h1>
           <p className="text-gray-400">
@@ -25,7 +25,7 @@ const SideBar = () => {
       </div>
       {/*Container3*/}
       <div className="flex flex-col justify-center lg:flex lg:flex-row">
-        <img  className="lg:w-[505px] xl:w-[635px] 2xl:w-[950px]" src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg"></img>
+        <img  className="lg:w-[505px] xl:w-[635px] 2xl:w-[950px]" src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg" alt="showcase3"></img>
         <div className="p-12 border-transparent 2xl:py-64 2xl:max-w-5xl shadow-2xl border-2 ">
           <h1 className="text-2xl mb-3">Fully Responsive Design</h1>
           <p className="text-gray-400">

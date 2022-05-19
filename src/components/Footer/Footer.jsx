@@ -3,18 +3,18 @@ const Footer = () => {
     <footer className="py-16">
       <div>
         <div className=" flex flex-col items-center">
-          <ul className="flex gap-6 mb-4">
+          <ul className="flex gap-6 mb-4 cursor-pointer">
             <li className="text-blue-400 border-b-2 hover:text-blue-600 border-blue-400">
-              <a href="#">About</a>
+              About
             </li>
             <li className="text-blue-400 border-b-2 hover:text-blue-600 border-blue-400">
-              <a href="#">Contact</a>
+              Contact
             </li>
             <li className="text-blue-400 border-b-2 hover:text-blue-600 border-blue-400">
-              <a href="#">Terms of Use</a>
+              Terms of Use
             </li>
             <li className="text-blue-400 border-b-2 hover:text-blue-600 border-blue-400">
-              <a href="#">Privacy Policy</a>
+              Privacy Policy
             </li>
           </ul>
           <p className="text-gray-500 text-sm mb-6">
